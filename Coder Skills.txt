@@ -1,0 +1,8 @@
+JD Smith skills:
+Java 
+Python
+Web Development
+Networking
+Security
+Clean Code
+Unit Testing
