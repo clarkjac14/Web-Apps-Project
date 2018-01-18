@@ -6,3 +6,12 @@ Networking
 Security
 Clean Code
 Unit Testing
+
+Jacob C (In order of most fluent):
+Java
+Python
+SQL
+C/C++
+C#
+HTML/CSS
+PHP
