@@ -1,0 +1,67 @@
+﻿body {
+    margin-top:0px;
+    height:auto;
+    width: 980px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#FFFFFF;
+}
+.top{
+    margin-top:0px;
+    background-color:#000000;
+    height:100px;
+}
+.left {
+    background-color: #FF9900;
+    width:330px;
+    float:left;
+    height:630px;
+    padding:10px 10px 10px 0;
+}
+#citrus_honeybell {
+    width: 125px;
+    height: 125px;
+    border: 3px solid #D6810D;
+    float:left;
+    margin-top:0;
+    margin-bottom:20px;
+    margin-left:20px;
+}
+#citrus_honeybell1{
+    font-family:Arial;
+    font-size:medium;
+}
+#citrus_rubyredgrapefruit {
+    border: 3px solid #D6810D;
+    width: 125px;
+    height: 125px;
+    float: left;
+    margin-top: 0;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.right {
+    background-color: #F2F2F2;
+    width: 630px;
+    float: left;
+    height: 640px;
+    padding: 3px 0 3px 3px;
+}
+#categorieslist {
+    float: right;
+    color: #FF9900;
+}
+  
+}
+ a {
+    color: #FF9900;
+}
+a1 {
+    color: #FFFFFF;
+}
+.bottom{
+    clear:both;
+    background-color:#000000;
+    height:50px;
+}
